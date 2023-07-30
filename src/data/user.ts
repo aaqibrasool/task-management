@@ -1,4 +1,4 @@
-import { user } from "../types/auth"
+import { user } from "../types/store"
 
 export const mockUsers: user[] = [
   {
